@@ -78,7 +78,6 @@ Traditional email filters often fail against evolving phishing strategies. DL-Ph
 ✅ Real-world threat detection  
 ✅ High model accuracy with interpretability  
 ✅ Streamlit UI for intuitive testing  
-✅ Built from scratch by [Vishvendra Reddy Bhoomidi](https://github.com/vishvendrarb)
 
 ---
 
